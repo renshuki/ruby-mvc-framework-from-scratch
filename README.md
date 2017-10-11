@@ -4,6 +4,11 @@
 
 In this course we’ll build our own simple MVC framework on top of Rack. Though the final product naturally won’t be as full-featured as, for example, Ruby on Rails, the journey is what counts! Let’s learn how it’s done.
 
+### Usage
+
+1) bundle install  
+2) rackup config.ru  
+3) Go to `http://127.0.0.1:9292/`  
 
 ------
 
